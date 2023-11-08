@@ -20,7 +20,7 @@
 <h1></h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/JBSQu6cuMoBZMC6daR/giphy.gif" width="400" height="300"/>
+  <img src="https://icons.iconarchive.com/icons/elegantthemes/beautiful-flat/256/Creditcard-icon.png" width="100" height="100"/>&nbsp;
 </div>
 
 ### :man_technologist: About Me :
