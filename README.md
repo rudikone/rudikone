@@ -1,5 +1,8 @@
-<div id="header" align="center">
-  <img src="https://icons.iconarchive.com/icons/designbolts/seo/256/Custom-Coding-icon.png" width="100"/>
+<div align="center">
+  <img src="https://icons.iconarchive.com/icons/elegantthemes/beautiful-flat/256/Creditcard-icon.png" width="100" height="100"/>&nbsp;
+  <img src="https://icons.iconarchive.com/icons/elegantthemes/beautiful-flat/256/Settings-icon.png" width="100" height="100"/>&nbsp;
+  <img src="https://icons.iconarchive.com/icons/elegantthemes/beautiful-flat/256/Brightness-icon.png" width="100" height="100"/>&nbsp;
+  <img src="https://icons.iconarchive.com/icons/elegantthemes/beautiful-flat/256/Keyboard-icon.png" width="100" height="100"/>
 </div>
 
 <div id="badges" align="center">
@@ -18,10 +21,6 @@
 </div>
 
 <h1></h1>
-
-<div align="center">
-  <img src="https://icons.iconarchive.com/icons/elegantthemes/beautiful-flat/256/Creditcard-icon.png" width="100" height="100"/>&nbsp;
-</div>
 
 ### :man_technologist: About Me :
 I am a Backend Developer <img src="https://media.giphy.com/media/SUcApSWjPwQMARvcM8/giphy.gif" width="30"> from Russia.
