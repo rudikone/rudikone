@@ -30,6 +30,8 @@ I am a Backend Developer <img src="https://media.giphy.com/media/SUcApSWjPwQMARv
 
 - :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/rudikone)
 
+- [Habr](https://habr.com/ru/users/rudikone/)
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
